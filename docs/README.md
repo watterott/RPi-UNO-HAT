@@ -13,6 +13,10 @@ Raspberry Pi to Arduino/Genuino Shield Bridge.
 * Optional 7-36V power input for Raspberry Pi and RPi-UNO-HAT (Murata OKI-78SR-5)
 
 
+## Shop
+* [RPi-UNO-HAT](http://www.watterott.com/en/RPi-UNO-HAT)
+
+
 ## Hardware
 * [Schematics + Layout](https://github.com/watterott/RPi-UNO-HAT/tree/master/hardware)
 
