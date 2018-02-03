@@ -15,15 +15,3 @@ Raspberry Pi to Arduino/Genuino Shield Bridge.
 
 ## Shop
 * [RPi-UNO-HAT](http://www.watterott.com/en/RPi-UNO-HAT)
-
-
-## Hardware
-* [Schematics + Layout](https://github.com/watterott/RPi-UNO-HAT/tree/master/hardware)
-
-## Software
-* [How to install the Arduino IDE on Raspberry Pi](https://github.com/watterott/RPi-UNO-HAT/blob/master/docs/Arduino.md)
-* [How to control the RPi-UNO-HAT with Firmata](https://github.com/watterott/RPi-UNO-HAT/blob/master/docs/Firmata.md)
-* [How to communicate with the RPi-UNO-HAT via I2C](https://github.com/watterott/RPi-UNO-HAT/blob/master/docs/I2CTest.md)
-* [How to flash/update the EEPROM on the RPi-UNO-HAT](https://github.com/watterott/RPi-UNO-HAT/blob/master/docs/EEPROM.md)
-* [How to flash the Bootloader on the RPi-UNO-HAT](https://github.com/watterott/RPi-UNO-HAT/blob/master/docs/Bootloader.md)
-* [Nuage a Arduino Yun compatible device](http://www.arduino-hausautomation.de/nuage/)
