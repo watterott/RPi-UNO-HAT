@@ -1,7 +1,7 @@
 # RPi-UNO-HAT
 Raspberry Pi to Arduino/Genuino Shield Bridge.
 
-![RPi-UNO-HAT](https://github.com/watterott/RPi-UNO-HAT/raw/master/hardware/RPi-UNO-HAT_v10.jpg)
+![RPi-UNO-HAT](https://github.com/watterott/RPi-UNO-HAT/raw/master/hardware/RPi-UNO-HAT_v11.jpg)
 
 * Microchip ATmega328P with Arduino compatible Bootloader (optiboot)
 * Raspberry Pi connected via I2C and UART (to the AVR through level-shifter)
