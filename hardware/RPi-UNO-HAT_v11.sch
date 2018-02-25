@@ -11099,15 +11099,6 @@ Designed by Stephan Watterott (Watterott electronic)</text>
 <text x="60.96" y="87.63" size="3.81" layer="250">Level Shifter</text>
 <text x="62.23" y="27.94" size="3.81" layer="250">Power Supply</text>
 <text x="199.39" y="92.71" size="3.81" layer="250">external FTDI</text>
-<text x="234.95" y="76.2" size="1.778" layer="250">Note/Bug:
-D0/Rx is not
-connected
-to pin 4 TXO</text>
-<wire x1="180.34" y1="160.655" x2="180.34" y2="159.385" width="0.3048" layer="94"/>
-<wire x1="186.69" y1="160.655" x2="186.69" y2="159.385" width="0.3048" layer="94"/>
-<wire x1="187.96" y1="145.415" x2="187.96" y2="144.145" width="0.3048" layer="94"/>
-<wire x1="244.475" y1="143.51" x2="245.745" y2="143.51" width="0.3048" layer="94"/>
-<wire x1="244.475" y1="137.16" x2="245.745" y2="137.16" width="0.3048" layer="94"/>
 </plain>
 <instances>
 <instance part="P+2" gate="1" x="245.11" y="162.56" smashed="yes">
