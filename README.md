@@ -8,10 +8,6 @@ Raspberry Pi to Arduino/Genuino Shield Bridge.
 * AVR-Programming via Raspberry Pi possible
 * [Raspberry Pi HAT](https://github.com/raspberrypi/hats) compatible (40 pin connector)
 * Shield connectors with Uno R3 layout
-* 19 digital IOs and 6 with analog input
 * Additional 3.3V LDO voltage regulator for Shields
 * Optional 7-36V power input for Raspberry Pi and RPi-UNO-HAT (Murata OKI-78SR-5)
-
-
-## Shop
-* [RPi-UNO-HAT](http://www.watterott.com/en/RPi-UNO-HAT)
+* **[Documentation on learn.watterott.com](http://learn.watterott.com/rpi-uno-hat/)**
