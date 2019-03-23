@@ -10,4 +10,5 @@ Raspberry Pi to Arduino/Genuino Shield Bridge.
 * Shield connectors with Uno R3 layout
 * Additional 3.3V LDO voltage regulator for Shields
 * Optional 7-36V power input for Raspberry Pi and RPi-UNO-HAT (Murata OKI-78SR-5)
-* **[Documentation on learn.watterott.com](http://learn.watterott.com/rpi-uno-hat/)**
+* Open-Source and released under the [Creative Commons Attribution Share-Alike License](https://creativecommons.org/licenses/by-sa/4.0/).
+* **[Documentation on learn.watterott.com](https://learn.watterott.com)**
